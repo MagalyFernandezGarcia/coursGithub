@@ -6,4 +6,6 @@
 
 body{
     background-color: #f5f6fa;
+    color: aqua;
+    display: flex;
 }
